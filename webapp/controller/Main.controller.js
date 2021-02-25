@@ -10,6 +10,11 @@ sap.ui.define([
 		return Controller.extend("dummy.project1.controller.Main", {
 			onInit: function () {
 
-			}
+            },
+            
+            test: function ( ){
+
+                
+            }
 		});
 	});
